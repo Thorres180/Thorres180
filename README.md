@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn.
 - 🌱 I’m currently learning software development.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  to email: betosousa1990@gmail.com
+- 📫 How to reach me for email: betosousa1990@gmail.com
 
 <!---
 Thorres180/Thorres180 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
